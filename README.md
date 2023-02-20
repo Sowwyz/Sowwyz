@@ -35,3 +35,21 @@ Software engineer.
        </td>
     </tr>
 </table>
+
+
+
+
+ Skills
+
+Languages:
+
+Java HTML5 CSS3 JavaScript NodeJS Python
+
+Databases:
+
+MySQL MongoDB
+
+Softwares and Tools:
+
+Spring Git GitHub Google Visual Studio Code Linux
+
