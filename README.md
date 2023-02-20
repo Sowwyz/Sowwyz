@@ -5,7 +5,7 @@
 Software engineer.
 
 ---
-
+![](https://komarev.com/ghpvc/?username=Sowwyz&color=blue)
 
 <div align="auto" style="display: inline-block;">
     <h3 align="auto">Resources </h1>
