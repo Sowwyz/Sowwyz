@@ -15,6 +15,7 @@ Software engineer.
         <img src="https://skillicons.dev/icons?i=javascript,ts,py,java,cs,cpp,html,css,nodejs,angular,django,spring,dotnet,postgres,vscode&perline=8" />
 </div>
 
+---
 
-[![Sowwyz's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Sowwyzs GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Sowwyz's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Sowwyz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Sowwyzs GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Sowwyz&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
