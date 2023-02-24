@@ -25,5 +25,5 @@ Software engineer.
 
 ---
 
-[![](https://dcbadge.vercel.app/api/server/INVITEID)](https://discord.gg/twitchfollower)
+[![(https://dcbadge.vercel.app/api/server/INVITEID)](https://discord.gg/twitchfollower)
 
