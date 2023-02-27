@@ -2,7 +2,7 @@
     Hello there! I am <strong>Sowwyz</strong> 👋🏻
 </h2>
 <p align="center">
-   U3VkZSBvbG1hZGFuIG9sbWF6IGFnYQ==
+   RGlzY29yZCA6IFNvd3d5eiMxMzM3
 <br>
 <br>
 <a href="https://github.com/Sowwyz">
