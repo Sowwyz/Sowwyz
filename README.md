@@ -2,7 +2,7 @@
     Hello there! I am <strong>Sowwyz</strong> 👋🏻
 </h2>
 <p align="center">
-    I am a CS Student & Youtuber who aspires to be a software developer in the near future <strong> <a href="https://discord.com">Discord</a></strong>
+    I am a CS Student & Youtuber who aspires to be a software developer in the near future.
 <br>
 <br>
 <a href="https://github.com/Sowwyz">
