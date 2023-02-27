@@ -18,11 +18,13 @@ Software engineer.
 </div>
 
 ---
+[![Discord Presence](https://lanyard.cnrad.dev/api/394251966571872256)](https://discord.com/users/394251966571872256)
+
+---
+
+
 
 [![Sowwyz's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Sowwyz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Sowwyzs GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Sowwyz&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-
----
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/394251966571872256)](https://discord.com/users/394251966571872256)
+----
