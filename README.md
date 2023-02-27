@@ -6,6 +6,7 @@ Software engineer.
 
 <h3 align="left">Connect with me:</h3> 
 <a href="https://www.youtube.com/channel/Sowwyz1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucitee3jz6cxmpgb1tnoroqg" height="30" width="40" /></a> 
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/394251966571872256)](https://discord.com/users/394251966571872256)
 ---
 
@@ -18,7 +19,7 @@ Software engineer.
 </div>
 
 ---
-[![Discord Presence](https://lanyard.cnrad.dev/api/394251966571872256)](https://discord.com/users/394251966571872256)
+TESTİNG 
 
 ---
 
