@@ -2,7 +2,7 @@
     Hello there! I am <strong>Sowwyz</strong> 👋🏻
 </h2>
 <p align="center">
-    I am a CS Student & Youtuber who aspires to be a software developer in the near future.
+   U3VkZSBvbG1hZGFuIG9sbWF6IGFnYQ==
 <br>
 <br>
 <a href="https://github.com/Sowwyz">
