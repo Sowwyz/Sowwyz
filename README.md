@@ -25,4 +25,4 @@ Software engineer.
 
 ---
 
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/394251966571872256)](https://discord.com/users/394251966571872256)
