@@ -18,47 +18,10 @@
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="PTS"></p>
 
 
-## <p align="center">Trophies</p>
-
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Sowwyz&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4" alt="trophies">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sowwyz&column=6&&margin-w=4&theme=gruvbox" alt="trophies2">
+  <img src="https://komarev.com/ghpvc/?username=Sowwyz&color=lightgrey" alt="views">
 </p>
 
-
-  
-  <hr/>
-<p align="center">
-  <a href="https://github.com/Sowwyz/"> 
- <img src = "https://streak-stats.demolab.com/?user=Sowwyz&hide_border=true&background=0D1117&theme=dark&dates=FFFFFF&sideNums=FFFFFF&stroke=FFFFFFFF)](https://git.io/streak-stats" />
-    </a>  <br>
-    
-    
-
-<a href="https://github.com/Sowwyz/">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sowwyz&theme=gruvbox&langs_count=8&layout=compac" />
-  </a> 
-
-  <a href="https://github.com/Sowwyz/">
-       <img src="https://github-readme-stats.vercel.app/api?username=Sowwyz&show_icons=true&theme=gruvbox"/>
-  </a> 
-
-  
-  
-  
-</p>
-
-
-</br> 
-
-<hr>
-
-</br> 
-<p align="center">
-  <a href="https://discord.com/users/394251966571872256">
-    <img src="https://lanyard.cnrad.dev/api/394251966571872256?theme=gruvbox" alt="discord">
-  </a>
-</p>
 
 </p>
 &nbsp;
@@ -81,13 +44,5 @@
     
 </p>
 
-<hr>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sowwyz&color=lightgrey" alt="views">
-</p>
 
 
-<p align="center">
-   RGlzY29yZCA6IFNvd3d5eiMxMzM3
-<br>
