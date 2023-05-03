@@ -1,18 +1,39 @@
-<h2 align="center">
-    Hello there! I am <strong>Sowwyz</strong> 👋🏻
-</h2>
+<img src="print.png" width="100%">
+
+
+<hr/>
 <p align="center">
-   RGlzY29yZCA6IFNvd3d5eiMxMzM3
+    <a href="https://github.com/Sowwyz/">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Sowwyz&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
+  </a> 
 <br>
-<br>
-<a href="https://github.com/Sowwyz">
-        <img src="https://komarev.com/ghpvc/?username=Sowwyz&color=red" />
+  <a href="https://github.com/Sowwyz/">
+       <img src="https://github-readme-stats.vercel.app/api?username=Sowwyz&show_icons=true&theme=gruvbox" />
   </a> 
 <br>
 <br>
-<a href="https://discord.com/users/394251966571872256">
-        <img src="https://lanyard-profile-readme.vercel.app/api/394251966571872256?idleMessage=%22May%20The%20Code%20Be%20With%20you%22&borderRadius=25px" />
-    </a>
+<a href="https://github.com/Sowwyz/">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sowwyz&theme=gruvbox&langs_count=8&layout=compact" />
+  </a> 
+</p>
+
+
+---
+<div align="center" style="display: inline-block;">
+    <h3 align="auto">Resources </h1>
+        <img src="https://skillicons.dev/icons?i=javascript,ts,py,java,cs,cpp,html,css,nodejs,angular,django,spring,dotnet,postgres,vscode&perline=8" />
+</div>
+</br> 
+
+<hr>
+
+</br> 
+<p align="center">
+  <a href="https://discord.com/users/394251966571872256">
+    <img src="https://lanyard.cnrad.dev/api/394251966571872256?theme=dark&bg=1d1d29" alt="discord">
+  </a>
+</p>
+
 </p>
 &nbsp;
 <p align="center">
@@ -33,27 +54,14 @@
     </a>
     
 </p>
-<hr/>
+
+<hr>
+
 <p align="center">
-    <a href="https://github.com/Sowwyz/">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Sowwyz&hide_border=true&background=0D1117&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&fire=f04848&ring=f04848&stroke=FFFFFFFF)](https://git.io/streak-stats" />
-  </a> 
-<br>
-  <a href="https://github.com/Sowwyz/">
-       <img src="https://github-readme-stats.vercel.app/api?username=Sowwyz&show_icons=true&theme=gruvbox" />
-  </a> 
-<br>
-<br>
-<a href="https://github.com/Sowwyz/">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sowwyz&theme=gruvbox&langs_count=8&layout=compact" />
-  </a> 
+  <img src="https://komarev.com/ghpvc/?username=Sowwyz&style=for-the-badge" alt="views">
 </p>
 
 
----
-<div align="auto" style="display: inline-block;">
-    <h3 align="auto">Resources </h1>
-        <img src="https://skillicons.dev/icons?i=javascript,ts,py,java,cs,cpp,html,css,nodejs,angular,django,spring,dotnet,postgres,vscode&perline=8" />
-</div>
-
-
+<p align="center">
+   RGlzY29yZCA6IFNvd3d5eiMxMzM3
+<br>
