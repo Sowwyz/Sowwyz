@@ -36,7 +36,7 @@
     
 
 <a href="https://github.com/Sowwyz/">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sowwyz&theme=gruvbox&langs_count=8&layout=compactwidth=50%" />
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sowwyz&theme=gruvbox&langs_count=8&layout=compac" />
   </a> 
 
   <a href="https://github.com/Sowwyz/">
